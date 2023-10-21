@@ -17,6 +17,7 @@
 #include <cstdint>
 #include <DirectXMath.h>
 #include <vector>
+#include <string>
 
 class GeometryGenerator
 {
